@@ -1,1 +1,1 @@
-两数之和
+the sum of 2 nums
